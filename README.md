@@ -3,15 +3,15 @@
 
 ## Ferramentas e Tecnologias
 
+
 <div>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
-<i><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></i>
+    <i class="devicon-html5-plain"></i>
+    <i class="devicon-css3-plain"></i>
+    <i class="devicon-javascript-plain"></i>
+    <i class="devicon-python-plain"></i>
+    <i class="devicon-react-original"></i>
+    <i class="devicon-nodejs-plain"></i>
+    <i class="devicon-git-plain"></i>
 </div>
 
 ## Banco de dados
