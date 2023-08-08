@@ -5,24 +5,22 @@
 
 ## Ferramentas e Tecnologias
 
-<div>
-    <i class="devicon-javascript-plain"></i>
-    <i class="devicon-python-plain"></i>
-    <i class="devicon-nodejs-plain"></i>
-    <i class="devicon-express-original"></i>
-    <i class="devicon-typescript-plain"></i>
-    <i class="devicon-flask-original"></i>
-    <i class="devicon-git-plain"></i>
-    <i class="devicon-html5-plain"></i>
-    <i class="devicon-css3-plain"></i>
-</div>
+<i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</i>
 
 ## Banco de dados
 
-<div>
-<i class="devicon-postgresql-plain colored"></i>
-<i class="devicon-sqlite-plain colored"></i>
-</div>
+<i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="50" height="50"/></i>
 
 ## Contatos
 
