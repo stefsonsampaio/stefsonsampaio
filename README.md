@@ -1,17 +1,29 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 # Olá, me chamo Stefson Sampaio ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## Ferramentas e Tecnologias
 
-
 <div>
-    <i class="devicon-html5-plain"></i>
-    <i class="devicon-css3-plain"></i>
     <i class="devicon-javascript-plain"></i>
     <i class="devicon-python-plain"></i>
-    <i class="devicon-react-original"></i>
     <i class="devicon-nodejs-plain"></i>
+    <i class="devicon-express-original"></i>
+    <i class="devicon-typescript-plain"></i>
+    <i class="devicon-flask-original"></i>
     <i class="devicon-git-plain"></i>
+    <i class="devicon-html5-plain"></i>
+    <i class="devicon-css3-plain"></i>
 </div>
 
 ## Banco de dados
